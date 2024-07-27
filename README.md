@@ -1,7 +1,7 @@
 # Honeypot
 
 ## Description
-Un honeypot est un faux système conçu pour attirer et piéger les attaquants. Ce projet implémente un honeypot en utilisant Python et des scripts Shell.
+Un honeypot est un faux système conçu pour attirer et piéger les attaquants. 
 
 ## Structure du projet
 - `scripts/`: Contient les scripts Shell pour démarrer et arrêter le honeypot.
