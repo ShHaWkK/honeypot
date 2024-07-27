@@ -10,6 +10,14 @@ Un honeypot est un faux système conçu pour attirer et piéger les attaquants.
 - `config/`: Contient les fichiers de configuration.
 - `README.md`: Documentation du projet.
 
+## PréRequis 
+Pour utiliser la commande ssh sur Windows, vous devez installer OpenSSH. Suivez ces étapes :
+ - Ouvrir les paramètres de Windows :
+   - Allez dans Paramètres > Applications > Fonctionnalités facultatives.
+  - Ajouter une fonctionnalité :
+    - Cliquez sur Ajouter une fonctionnalité en haut de la page.
+  - Installer OpenSSH Client :
+    - Recherchez OpenSSH Client et cliquez sur Installer.
 ## Utilisation
 ### Démarrer le Honeypot
 
