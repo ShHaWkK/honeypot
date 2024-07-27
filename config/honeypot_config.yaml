@@ -1,0 +1,5 @@
+honeypot:
+  port: 8080
+  services:
+    - ssh
+    - http
