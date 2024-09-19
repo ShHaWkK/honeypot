@@ -6,7 +6,6 @@
 - `src/`: Contient les scripts Python principaux.
 - `logs/`: Contient les fichiers de log.
 - `config/`: Contient les fichiers de configuration.
-- `README.md`: Documentation du projet.
 
 ## PréRequis 
 Pour utiliser la commande **ssh** sur Windows, vous devez installer OpenSSH. **Suivez ces étapes** :
